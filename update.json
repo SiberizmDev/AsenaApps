@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "versionName": "İlk Sürüm",
+  "updateImage": "https://raw.githubusercontent.com/SiberizmDev/AsenaApps/main/assets/images/update.png",
+  "updateNotes": [
+    "Asedia Apps ilk sürümü yayınlandı!",
+    "Tema sistemi eklendi",
+    "Uygulama yöneticisi eklendi",
+    "Güncelleme sistemi eklendi"
+  ],
+  "minSdkVersion": 21,
+  "targetSdkVersion": 33,
+  "packageName": "com.asena.apps",
+  "downloadUrl": "https://github.com/SiberizmDev/AsenaApps/releases/lastest"
+} 
